@@ -1,0 +1,2 @@
+# TTRPG Obsidian Vault
+ 
