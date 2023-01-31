@@ -1,0 +1,363 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "Eclipse Academy of the Arcane": {
+      "Eclipse Academy of the Arcane": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675031671519
+        }
+      }
+    },
+    "Norbus Kolvos": {
+      "Norbus Kolvos": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675028530307
+        }
+      }
+    },
+    "Lerla Biggul": {
+      "Lerla Biggul": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675032091742
+        }
+      }
+    },
+    "Valdian": {
+      "Valdian": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675029409288
+        }
+      }
+    },
+    "Session 017": {
+      "Session 017": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675031837973
+        }
+      }
+    },
+    "Jorboz": {
+      "Jorboz": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675029126264
+        }
+      }
+    },
+    "Meshwich": {
+      "Meshwich": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675029187174
+        }
+      }
+    },
+    "Session 015": {
+      "Session 015": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675029398959
+        }
+      }
+    },
+    "Vyras Stratton": {
+      "Vyras Stratton": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675031864032
+        }
+      }
+    },
+    "Kielash Malgil": {
+      "Kielash Malgil": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675030651185
+        }
+      }
+    },
+    "Gnerkil Rahj": {
+      "Gnerkil Rahj": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675030165465
+        }
+      }
+    },
+    "Halls of Lore": {
+      "Halls of Lore": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675030314118
+        }
+      }
+    },
+    "Central Halls of Ancestry": {
+      "Central Halls of Ancestry": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675031934760
+        }
+      }
+    },
+    "Phelia Malgil": {
+      "Phelia Malgil": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675030660228
+        }
+      }
+    },
+    "Bear and Bottle": {
+      "Bear and Bottle": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675030681612
+        }
+      }
+    },
+    "PheonixConsortHierarch": {
+      "PheonixConsortHierarch": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675030747236
+        }
+      }
+    },
+    "Phoenix Consort": {
+      "Phoenix Consort": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675030778494
+        }
+      }
+    },
+    "Elizabeth Irius": {
+      "Elizabeth Irius": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675031345440
+        }
+      }
+    },
+    "Veron Irius": {
+      "Veron Irius": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675031369203
+        }
+      }
+    },
+    "Sister": {
+      "Sister": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675031380600
+        }
+      }
+    },
+    "Vanderin Irius": {
+      "Vanderin Irius": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1675032087038
+        }
+      }
+    },
+    "Alice Irius": {
+      "Alice Irius": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675031419218
+        }
+      }
+    },
+    "Elise Irius": {
+      "Elise Irius": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675031429890
+        }
+      }
+    },
+    "Dancing Hourglass": {
+      "Dancing Hourglass": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675031450861
+        }
+      }
+    },
+    "Vinkus Dunhall": {
+      "Vinkus Dunhall": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675031472577
+        }
+      }
+    },
+    "Alida Ponn": {
+      "Alida Ponn": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675031515213
+        }
+      }
+    },
+    "Dazlyn Kolvos": {
+      "Dazlyn Kolvos": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675031574797
+        }
+      }
+    },
+    "Toblen Stonehill": {
+      "Toblen Stonehill": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675031877816
+        }
+      }
+    },
+    "Ryitta Stonehill": {
+      "Ryitta Stonehill": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675031898879
+        }
+      }
+    },
+    "Lucious Dunhall": {
+      "Lucious Dunhall": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675032030363
+        }
+      }
+    },
+    "Murook Coyle": {
+      "Murook Coyle": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675032076892
+        }
+      }
+    },
+    "Friend": {
+      "Friend": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675032103901
+        }
+      }
+    },
+    "Wyn Syrel": {
+      "Wyn Syrel": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675032089934
+        }
+      }
+    },
+    "Berrard Calboot": {
+      "Berrard Calboot": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675033638536
+        }
+      }
+    },
+    "Larre Diao": {
+      "Larre Diao": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675033665152
+        }
+      }
+    },
+    "Radagon Davaar": {
+      "Radagon Davaar": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675033683542
+        }
+      }
+    },
+    "Campaign": {
+      "Campaign": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675038436328
+        }
+      }
+    },
+    "TBD": {
+      "TBD": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675106911168
+        }
+      }
+    },
+    "PlaceholderImage": {
+      "PlaceholderImage": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675107440502
+        }
+      }
+    }
+  }
+}
