@@ -1,5 +1,7 @@
 ![Showcase](https://i.gyazo.com/51f7b904dbffdf061d24766ffc07dcfd.jpg)
 
+![Showcase](https://i.gyazo.com/b6e0330ee8288c3c26cc0e43fb229154.png)
+
 # How to use:
 Below is a template, when placed in Obsidian will look like the showcase above. To use this, you simple need to cope and past the box below and find the two lines telling you to delete them. Once you have done this, with the correct plugins installed, you will have the above template. This template talks to a Settlement Database folder that I have not made a template for, so be patient for that!
 
