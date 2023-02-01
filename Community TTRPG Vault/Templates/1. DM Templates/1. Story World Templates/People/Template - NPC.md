@@ -1,5 +1,8 @@
 
-![[Pasted image 20230131235843.png]]
+
+
+![Showcase](https://i.gyazo.com/fd8f2480648fa852cdb4cb046429ab19.jpg)
+
 
 # How to use:
 Below is a template, when placed in Obsidian will look like the showcase above. To use this, you simple need to cope and past the box below and find the two lines telling you to delete them. Once you have done this, with the correct plugins installed, you will have the above template. This template talks to a NPC Database folder that I have not made a template for, so be patient for that!
