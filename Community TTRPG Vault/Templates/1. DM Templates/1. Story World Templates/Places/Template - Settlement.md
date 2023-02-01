@@ -1,3 +1,10 @@
+![Showcase](https://i.gyazo.com/51f7b904dbffdf061d24766ffc07dcfd.jpg)
+
+# How to use:
+Below is a template, when placed in Obsidian will look like the showcase above. To use this, you simple need to cope and past the box below and find the two lines telling you to delete them. Once you have done this, with the correct plugins installed, you will have the above template. This template talks to a Settlement Database folder that I have not made a template for, so be patient for that!
+
+```
+DELETE THIS LINE AND THE ONE ABOVE
 
 > [!infobox]
 > # `=this.file.name`
@@ -91,3 +98,7 @@ TBD
 
 
 ### General Notes
+
+DELETE THIS LINE AND THE ONE BELOW
+```
+
