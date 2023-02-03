@@ -798,5 +798,4 @@ filters:
   enabled: false
   conditions:
 ```
-```
-DELETE THIS LINE AND THE LINE ABOVE
+DELETE THIS LINE

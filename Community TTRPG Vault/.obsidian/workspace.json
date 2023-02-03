@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md",
+                "file": "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md",
                 "mode": "preview",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "2610618a7dbc181a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md"
+              }
             }
           }
         ]
@@ -190,10 +198,10 @@
       }
     ]
   },
-  "active": "a04d62086b5bce96",
+  "active": "2610618a7dbc181a",
   "lastOpenFiles": [
-    "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md",
     "Templates/1. DM Templates/2. Database Folder Templates/Untitled.md",
+    "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Bobbie.md",
     "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database - Example.md",
