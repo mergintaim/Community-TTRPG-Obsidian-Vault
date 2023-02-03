@@ -1,3 +1,6 @@
+```
+DELETE THIS LINE AND THE ONE ABOVE
+
 ---
 
 database-plugin: basic
@@ -792,4 +795,6 @@ config:
 filters:
   enabled: false
   conditions:
+```
+DELETE THIS LINE AND THE ONE BELOW
 ```

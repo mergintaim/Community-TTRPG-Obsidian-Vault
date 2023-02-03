@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database - Example.md",
+                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database - Example.md",
+                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database - Example.md",
+                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database - Example.md"
+                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md"
               }
             }
           }
@@ -198,15 +198,15 @@
   },
   "active": "d0abf7525b749e8d",
   "lastOpenFiles": [
+    "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database - Example.md",
+    "Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
     "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Bobbie.md",
-    "Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
     "Templates/1. DM Templates/1. Story World Templates/Places/Template - Settlement.md",
     "z_Assets/Pasted image 20230131235843.png",
     "Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Letter.md",
     "Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Quest.md",
     "Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Service Request.md",
-    "Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Session Notes.md",
-    "Templates/1. DM Templates/1. Story World Templates/People/Template - Deity.md"
+    "Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Session Notes.md"
   ]
 }
