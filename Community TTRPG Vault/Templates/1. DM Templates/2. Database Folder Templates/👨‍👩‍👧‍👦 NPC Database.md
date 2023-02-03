@@ -798,5 +798,5 @@ filters:
   enabled: false
   conditions:
 ```
-DELETE THIS LINE AND EVERYTHING BELOW
 ```
+DELETE THIS LINE AND THE LINE ABOVE

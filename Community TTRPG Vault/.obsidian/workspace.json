@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2610618a7dbc181a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,12 +190,12 @@
       }
     ]
   },
-  "active": "0a2708db2503cfc5",
+  "active": "a04d62086b5bce96",
   "lastOpenFiles": [
-    "Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
     "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md",
-    "Templates/1. DM Templates/1. Story World Templates/People/Bobbie.md",
     "Templates/1. DM Templates/2. Database Folder Templates/Untitled.md",
+    "Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
+    "Templates/1. DM Templates/1. Story World Templates/People/Bobbie.md",
     "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database - Example.md",
     "Bobbie.png",
     "Templates/1. DM Templates/1. Story World Templates/Places/Template - Settlement.md",
