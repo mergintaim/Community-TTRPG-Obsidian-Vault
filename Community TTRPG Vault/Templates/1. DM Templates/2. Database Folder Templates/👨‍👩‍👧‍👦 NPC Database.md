@@ -796,5 +796,3 @@ filters:
   enabled: false
   conditions:
 ```
-DELETE THIS LINE AND THE ONE BELOW
-```
