@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "36b3c4eac1d273d9",
+        "id": "d8043063b12f7d2a",
         "type": "tabs",
         "children": [
           {
-            "id": "0a2708db2503cfc5",
+            "id": "ebfb66e2cc118b5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md",
+                "file": "Templates/1. DM Templates/1. Story World Templates/People/NPC Database.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "2610618a7dbc181a",
+            "id": "543ddf9fb34448ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fac0fefb383715bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md",
+                "file": "Templates/1. DM Templates/1. Story World Templates/People/NPC Database.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md",
+                "file": "Templates/1. DM Templates/1. Story World Templates/People/NPC Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md",
+                "file": "Templates/1. DM Templates/1. Story World Templates/People/NPC Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md"
+                "file": "Templates/1. DM Templates/1. Story World Templates/People/NPC Database.md"
               }
             }
           }
@@ -173,54 +161,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "floating": {
-    "id": "84e6821edc568c1d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7bd7484f0f97213d",
-        "type": "window",
-        "children": [
-          {
-            "id": "5cb4e493f9b82a61",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cc4785b067b65b7b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Templates/1. DM Templates/1. Story World Templates/People/Bobbie.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2560,
-        "y": 392,
-        "width": 765,
-        "height": 619,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "fac0fefb383715bf",
+  "active": "a04d62086b5bce96",
   "lastOpenFiles": [
-    "Templates/1. DM Templates/2. Database Folder Templates/Untitled.md",
-    "Templates/1. DM Templates/2. Database Folder Templates/NPC Database.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
-    "Templates/1. DM Templates/1. Story World Templates/People/Bobbie.md",
-    "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database - Example.md",
-    "Bobbie.png",
+    "Templates/1. DM Templates/1. Story World Templates/People/NPC Database.md",
     "Templates/1. DM Templates/1. Story World Templates/Places/Template - Settlement.md",
-    "z_Assets/Pasted image 20230131235843.png",
-    "Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Letter.md",
-    "Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Quest.md"
+    "Testing.md",
+    "Templates/1. DM Templates/1. Story World Templates/People/Bobbie.md",
+    "Templates/1. DM Templates/1. Story World Templates/People/NPC Database - Example.md",
+    "Templates/1. DM Templates/1. Story World Templates/People/Bobbie 2.md",
+    "Bobbie.png",
+    "Templates/1. DM Templates/2. Database Folder Templates/Untitled.md",
+    "Templates/1. DM Templates/2. Database Folder Templates/NPC Database 1.md"
   ]
 }

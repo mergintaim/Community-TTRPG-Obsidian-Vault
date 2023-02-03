@@ -1,4 +1,7 @@
-DELETE THIS LINE AND EVERYTHING ABOVE
+# How to use:
+To use this, you simple need to cope and past the box below below. Once you have done this, with Database Folders installed, it will work.
+
+````
 ---
 
 database-plugin: basic
@@ -229,10 +232,6 @@ columns:
     sortIndex: -1
     options:
       - { label: "Character", backgroundColor: "hsl(221, 95%, 90%)"}
-      - { label: "Group", backgroundColor: "hsl(67, 95%, 90%)"}
-      - { label: "Shop", backgroundColor: "hsl(143, 95%, 90%)"}
-      - { label: "POI", backgroundColor: "hsl(15, 95%, 90%)"}
-      - { label: "Side", backgroundColor: "hsl(62, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -284,11 +283,6 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Valdian", backgroundColor: "hsl(327, 95%, 90%)"}
-      - { label: "Meshwich", backgroundColor: "hsl(27, 95%, 90%)"}
-      - { label: "Kamderah", backgroundColor: "hsl(118, 95%, 90%)"}
-      - { label: "Onyxdale", backgroundColor: "hsl(135, 95%, 90%)"}
-      - { label: "Odinys", backgroundColor: "hsl(117, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -378,9 +372,6 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Odinys Merchants Guild", backgroundColor: "hsl(325, 95%, 90%)"}
-      - { label: "Phoenix Consort", backgroundColor: "hsl(316, 95%, 90%)"}
-      - { label: "Sil'jun", backgroundColor: "hsl(87, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -404,8 +395,6 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Keata", backgroundColor: "hsl(161, 95%, 90%)"}
-      - { label: "Sil'jun", backgroundColor: "hsl(345, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -793,3 +782,5 @@ config:
 filters:
   enabled: false
   conditions:
+```
+````
