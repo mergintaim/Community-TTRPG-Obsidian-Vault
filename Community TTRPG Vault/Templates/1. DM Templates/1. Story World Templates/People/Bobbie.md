@@ -1,21 +1,17 @@
+---
+Race: Halfling
+---
 
-![Showcase](https://i.gyazo.com/fd8f2480648fa852cdb4cb046429ab19.jpg)
-
-
-# How to use:
-Below is a template, when placed in Obsidian will look like the showcase above. To use this, you simple need to cope and past the box below and find the two lines telling you to delete them. Once you have done this, with the correct plugins installed, you will have the above template. This template talks to a NPC Database folder that I have not made a template for, so be patient for that!
-
-```
-DELETE THIS LINE AND THE ONE ABOVE
 
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png|cover hm-sm]]
+> ![[Bobbie.png|cover hm-sm]]
 > ###### Bio
 >  |
 > ---|---|
-> **Race** | `=this.race` |
+> **Ancestrie** | `=this.race` |
+> **Heritage** | `=this.heritage` |
 > **Sex** | `=this.gender` |
 > **Age** | `=this.age` |
 > **Sexuality** | `=this.sexuality` |
@@ -78,5 +74,4 @@ TBD
 
 ### General Notes
 
-DELETE THIS LINE AND THE ONE BELOW
-```
+
