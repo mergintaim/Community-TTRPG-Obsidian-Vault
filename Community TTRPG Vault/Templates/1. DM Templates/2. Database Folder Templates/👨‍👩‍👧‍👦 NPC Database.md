@@ -1,6 +1,8 @@
-```
-DELETE THIS LINE AND THE ONE ABOVE
+# How to use:
+To use this, you simple need to cope and past the box below and find the two lines telling you to delete them. Once you have done this, with the correct plugins installed, you will have the above template.
 
+```
+DELETE THIS LINE AND EVERYTHING ABOVE
 ---
 
 database-plugin: basic
@@ -795,4 +797,6 @@ config:
 filters:
   enabled: false
   conditions:
+```
+DELETE THIS LINE AND EVERYTHING BELOW
 ```

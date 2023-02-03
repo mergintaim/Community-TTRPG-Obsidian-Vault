@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5ecf9d9599ddb59",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md"
-              }
-            }
-          },
-          {
-            "id": "d0abf7525b749e8d",
+            "id": "0a2708db2503cfc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,24 +178,24 @@
         "direction": "vertical",
         "x": 2560,
         "y": 392,
-        "width": 1720,
-        "height": 1392,
+        "width": 765,
+        "height": 619,
         "maximize": false,
         "zoom": 1
       }
     ]
   },
-  "active": "d0abf7525b749e8d",
+  "active": "0a2708db2503cfc5",
   "lastOpenFiles": [
-    "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database - Example.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
     "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Bobbie.md",
+    "Templates/1. DM Templates/2. Database Folder Templates/Untitled.md",
+    "Templates/1. DM Templates/2. Database Folder Templates/👨‍👩‍👧‍👦 NPC Database - Example.md",
+    "Bobbie.png",
     "Templates/1. DM Templates/1. Story World Templates/Places/Template - Settlement.md",
     "z_Assets/Pasted image 20230131235843.png",
     "Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Letter.md",
-    "Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Quest.md",
-    "Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Service Request.md",
-    "Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Session Notes.md"
+    "Templates/1. DM Templates/1. Story World Templates/Session Notes/Template - Quest.md"
   ]
 }
