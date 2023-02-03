@@ -1,7 +1,3 @@
-# How to use:
-To use this, you simple need to cope and past the box below and find the two lines telling you to delete them. Once you have done this, with Database Folders installed, it will work.
-
-````
 DELETE THIS LINE AND EVERYTHING ABOVE
 ---
 
@@ -797,6 +793,3 @@ config:
 filters:
   enabled: false
   conditions:
-```
-````
-DELETE THIS LINE AND THE LINE ABOVE
