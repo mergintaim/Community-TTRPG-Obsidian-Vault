@@ -6,9 +6,9 @@
 Below is a template, when placed in Obsidian will look like the showcase above. To use this, you simple need to copy and past the box below. Once you have done this, with the correct plugins installed, you will have the above template. This works in conjunction with the NPC Database.
 
 ## Plugin Requirements
-Dataview: https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
-Database Folders: https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
-ITS Theme (Appearance): https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
+- Dataview: https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
+- Database Folders: https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
+- ITS Theme (Appearance): https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
 
 ```
 
