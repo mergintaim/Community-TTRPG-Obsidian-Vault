@@ -1,5 +1,32 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Testington",
+      "lastAccessed": 1675617613819,
+      "markers": [
+        {
+          "id": "ID_c9caea2b39eb",
+          "type": "Info",
+          "loc": [
+            -35.23003783976622,
+            29.215938338369206
+          ],
+          "link": "Template - Session Notes",
+          "layer": "%5B%5BPlaceholderImage.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -10,7 +37,23 @@
       "y": -2
     }
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Info",
+      "iconName": "info-circle",
+      "color": "#c20000",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,

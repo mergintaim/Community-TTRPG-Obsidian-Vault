@@ -1,9 +1,10 @@
 # How to use:
-To use this, you simple need to cope and past the box below below. Once you have done this, with Database Folders installed, it will work. This works in conjuction with the NPC Template.
+Below is a template for a settlement database. To use this, you simple need to copy and past the box below. Once you have done this, with the correct plugins installed, you will have the above template. This works in conjunction with the Settlement Template.
 
 ## Plugin Requirements
 Dataview: https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
 Database Folders: https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
+Obsidian Leaflet: https://github.com/valentine195/obsidian-leaflet-plugin
 ITS Theme (Appearance): https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
 
 ````
@@ -53,7 +54,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __created__
-    position: 13
+    position: 14
     isHidden: false
     sortIndex: -1
     config:
@@ -77,7 +78,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     accessor: __modified__
-    position: 14
+    position: 15
     isHidden: false
     sortIndex: -1
     config:
@@ -167,13 +168,12 @@ columns:
     accessor: Region
     key: Region
     label: Region
-    position: 7
+    position: 8
     skipPersist: false
     accessorKey: Region
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Odinys", backgroundColor: "hsl(100, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -189,7 +189,7 @@ columns:
     accessor: Defences
     key: Defences
     label: Defences
-    position: 8
+    position: 9
     skipPersist: false
     accessorKey: Defences
     isHidden: false
@@ -216,7 +216,7 @@ columns:
     accessor: GovtType
     key: GovtType
     label: GovtType
-    position: 9
+    position: 10
     skipPersist: false
     accessorKey: GovtType
     isHidden: false
@@ -278,13 +278,11 @@ columns:
     key: Religions
     id: Religions
     label: Religions
-    position: 10
+    position: 11
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Sil'jun", backgroundColor: "hsl(241, 95%, 90%)"}
-      - { label: "Keata", backgroundColor: "hsl(311, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -319,7 +317,7 @@ columns:
     key: Imports
     id: Imports
     label: Imports
-    position: 11
+    position: 12
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -341,13 +339,36 @@ columns:
     key: Exports
     id: Exports
     label: Exports
-    position: 12
+    position: 13
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
       - { label: "Lumber", backgroundColor: "hsl(112, 95%, 90%)"}
       - { label: "Grain", backgroundColor: "hsl(78, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Theme:
+    input: tags
+    accessorKey: Theme
+    key: Theme
+    id: Theme
+    label: Theme
+    position: 7
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Gothic", backgroundColor: "hsl(186, 95%, 90%)"}
+      - { label: "Victorian", backgroundColor: "hsl(218, 95%, 90%)"}
+      - { label: "Medieval", backgroundColor: "hsl(319, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

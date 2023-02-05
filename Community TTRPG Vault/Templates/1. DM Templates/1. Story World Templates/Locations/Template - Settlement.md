@@ -13,17 +13,18 @@ Obsidian Leaflet: https://github.com/valentine195/obsidian-leaflet-plugin
 ITS Theme (Appearance): https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
 
 ```
+
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[PlaceholderImage.png]]
+> ![[PlaceholderImage.png|cover hm-sm]]
 > ###### Info
 >  |
 > ---|---|
 > **Alias** | `=this.alias` |
 > **Type** | `=this.type` |
 > **Population** | `=this.population` |
-> **Theme** | TBD |
+> **Theme** | `=this.theme` |
 > **Region** | `=link(this.Region)` |
 > **Terrain** | `=this.terrain` |
 > ###### Politics
@@ -43,7 +44,7 @@ ITS Theme (Appearance): https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
 > [[Group Database|Add New Group]]
 > ```dataview 
 table join(Type, ", ") AS Type
-WHERE contains(Location, this.file.name) AND contains(NoteIcon, "Group")
+WHERE econtains(Location, this.file.name) AND contains(NoteIcon, "Group")
 SORT Type ASC
 
 # **`=this.file.name`**
@@ -75,14 +76,14 @@ TBD
 > [[Shop & Service Database|Add New Shop/Service]]
 > ```dataview
 table join(Type, ", ") AS Type, join(link(AffiliatedGroup), ", ") AS "Affiliated Group(s)"
-WHERE contains(Location, this.file.name) AND contains(NoteIcon, "Shop")
+WHERE Location = this.file.name AND contains(NoteIcon, "Shop")
 SORT file.name ASC
 
 > ###### Notable Points of Interest
 > [[POI Database|Add New Point of Interest]]
 > ```dataview
 table join(Type, ", ") AS Type, join(link(AffiliatedGroup), ", ") AS "Affiliated Group(s)"
-WHERE contains(Location, this.file.name) AND contains(NoteIcon, "POI")
+WHERE Location = this.file.name AND contains(NoteIcon, "POI")
 SORT file.name ASC
 
 ## Notable Characters
@@ -91,7 +92,7 @@ SORT file.name ASC
 > [[NPC Database|Add New NPC]]
 > ```dataview
 table Art, Party1Standing AS "Party 1 Standing", join(Occupation, ", ") AS "Occupation(s)", join(link(AssociatedGroup), ", ") AS "Associated Group(s)", join(link(AssociatedReligion), ", ") AS "Associated Religion(s)"
-WHERE contains(Location, this.file.name) AND contains(NoteIcon, "Character") AND !contains(Condition, "Dead")
+WHERE Location = this.file.name AND contains(NoteIcon, "Character") AND !contains(Condition, "Dead")
 SORT file.name ASC
 
 ## History
