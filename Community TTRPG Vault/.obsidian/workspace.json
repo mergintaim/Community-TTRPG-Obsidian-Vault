@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c8c5ce70d2bb70b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
+                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
+                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md"
+                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md"
               }
             }
           }
@@ -161,17 +173,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "ce3e09d84d5ff819",
+  "active": "2c8c5ce70d2bb70b",
   "lastOpenFiles": [
-    "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
-    "Templates/1. DM Templates/1. Story World Templates/Place/Untitled.md",
     "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
+    "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Database - NPC.md",
+    "Templates/1. DM Templates/1. Story World Templates/People/Untitled.md",
+    "Templates/1. DM Templates/1. Story World Templates/Place/Untitled.md",
     "Untitled.md",
     "Templates/1. DM Templates/1. Story World Templates/Places/Template - Settlement.md",
     "Testing.md",
-    "Templates/1. DM Templates/1. Story World Templates/People/Bobbie.md",
-    "Templates/1. DM Templates/1. Story World Templates/People/NPC Database - Example.md"
+    "Templates/1. DM Templates/1. Story World Templates/People/Bobbie.md"
   ]
 }
