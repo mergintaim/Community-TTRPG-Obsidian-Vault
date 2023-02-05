@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
+                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
+                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
+                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md"
+                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "0e6bd741418f6e36",
   "lastOpenFiles": [
-    "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
     "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Database - NPC.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
+    "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
     "Untitled.md",
     "Settlement Test Folder/NPCs/!NPC Database.md",
     "Settlement Test Folder/NPCs/Jeff.md",

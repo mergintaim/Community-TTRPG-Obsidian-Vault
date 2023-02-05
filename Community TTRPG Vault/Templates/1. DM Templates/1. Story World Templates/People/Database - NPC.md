@@ -1,10 +1,10 @@
 # How to use:
-To use this, you simple need to cope and past the box below below. Once you have done this, with Database Folders installed, it will work. This works in conjuction with the NPC Template.
+To use this, you simple need to cope and past the box below below. Once you have done this, with Database Folders installed, it will work. This works in conjuction with the [[Template - NPC]].
 
 ## Plugin Requirements
-- Dataview: https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
-- Database Folders: https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
-- ITS Theme (Appearance): https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
+- Dataview: https://github.com/blacksmithgu/obsidian-dataview
+- Database Folders: https://github.com/blacksmithgu/obsidian-dataview
+- ITS Theme (Appearance): https://github.com/SlRvb/Obsidian--ITS-Theme
 
 ````
 ---

@@ -4,13 +4,13 @@
 ![Showcase](https://i.gyazo.com/a0f5660e0b7bf08b79a84a272837317d.png)
 
 # How to use:
-Below is a template, when placed in Obsidian will look like the showcase above. To use this, you simple need to copy and past the box below. Once you have done this, with the correct plugins installed, you will have the above template. This works in conjunction with the Settlement Database.
+Below is a template, when placed in Obsidian will look like the showcase above. To use this, you simple need to copy and past the box below. Once you have done this, with the correct plugins installed, you will have the above template. This works in conjunction with the [[Database - Settlement]].
 
 ## Plugin Requirements
-- Dataview: https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
-- Database Folders: https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
-- Obsidian Leaflet: https://github.com/valentine195/obsidian-leaflet-plugin
-- ITS Theme (Appearance): https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
+- Dataview: https://github.com/blacksmithgu/obsidian-dataview
+- Database Folders: https://github.com/blacksmithgu/obsidian-dataview
+- ITS Theme (Appearance): https://github.com/SlRvb/Obsidian--ITS-Theme
+- ITS Theme (Appearance): https://github.com/valentine195/obsidian-leaflet-plugin
 
 ```
 
