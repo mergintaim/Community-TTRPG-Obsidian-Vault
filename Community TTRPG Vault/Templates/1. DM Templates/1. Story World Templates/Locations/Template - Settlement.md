@@ -13,8 +13,6 @@ Obsidian Leaflet: https://github.com/valentine195/obsidian-leaflet-plugin
 ITS Theme (Appearance): https://i.gyazo.com/e8147dae3a31b55dc7b69d98046dee30.jpg
 
 ```
-DELETE THIS LINE AND EVERYTHING ABOVE
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"
@@ -108,5 +106,4 @@ TBD
 
 ### General Notes
 
-DELETE THIS LINE AND THE ONE BELOW
 ```
