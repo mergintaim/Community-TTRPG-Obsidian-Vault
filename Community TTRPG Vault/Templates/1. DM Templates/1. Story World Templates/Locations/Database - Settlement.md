@@ -5,7 +5,7 @@ Below is a template for a settlement database. To use this, you simple need to c
 - Dataview: https://github.com/blacksmithgu/obsidian-dataview
 - Database Folders: https://github.com/blacksmithgu/obsidian-dataview
 - ITS Theme (Appearance): https://github.com/SlRvb/Obsidian--ITS-Theme
-- ITS Theme (Appearance): https://github.com/valentine195/obsidian-leaflet-plugin
+- Obsidian Leaflet: https://github.com/valentine195/obsidian-leaflet-plugin
 
 ````
 ---

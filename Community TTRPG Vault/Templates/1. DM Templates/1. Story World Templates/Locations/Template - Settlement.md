@@ -10,7 +10,7 @@ Below is a template, when placed in Obsidian will look like the showcase above. 
 - Dataview: https://github.com/blacksmithgu/obsidian-dataview
 - Database Folders: https://github.com/blacksmithgu/obsidian-dataview
 - ITS Theme (Appearance): https://github.com/SlRvb/Obsidian--ITS-Theme
-- ITS Theme (Appearance): https://github.com/valentine195/obsidian-leaflet-plugin
+- Obsidian Leaflet: https://github.com/valentine195/obsidian-leaflet-plugin
 
 ```
 
