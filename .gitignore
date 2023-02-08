@@ -1,0 +1,96 @@
+# General
+!*.keep
+
+# Ignore OS Files 
+*.linux
+.DS_Store
+.fuse_hidden*
+.Trash-*
+.directory
+[Dd]esktop.ini
+.Trashes
+*.lnk
+
+
+# git
+*.patch
+*.diff
+
+# Ignore Obsidian Files
+.obsidian
+.trash
+
+
+# building.. because I almost did so, oops!
+out/
+.env
+*~
+/bin
+.nfs*
+$RECYCLE.BIN/
+build
+build_output/*
+dist
+*.exe
+*.out
+*.app
+*.o
+*.so
+
+# IDEs/DEs
+.idea/
+.vscode/*
+*.sublime-*
+.history
+tags
+
+# dev platforms/package managers
+.npm
+.yarn/*
+node_modules/
+jspm_packages/
+
+# Activity Data
+sync.log
+some.log
+dlFolderLastChange
+
+# tmp files
+*.temp
+*.tmp
+/tmp/*
+/tmp
+.cache
+*.pid
+*.seed
+*.pid.lock
+
+# default location of (large) coc extensions; actually not necessary because of `g.coc_data_home` is changed in the coc-config, but still put here as a safety net
+.config/coc
+
+# in case of accidental saving of such files in the repo
+*.mp4
+*.part
+
+# safety net in case sensitive data is accidentally moved
+pw.*
+*.kdb
+*.kdbx
+*.pfx
+*.key
+
+# logs
+*.log
+*.bak
+*.errors
+*.stackdump
+crash-*
+
+
+# Various Maintainers's Task Tracking file for TTRPG-Share Management
+# Sigrunixia
+The-Purple-Scale-Ledger.md 
+
+# Editorconfigs, Linters, and Prettiers we have not decided on yet
+.prettier*
+.editorconfig
