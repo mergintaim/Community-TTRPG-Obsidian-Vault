@@ -13,7 +13,7 @@ Why is this quest being given?
 What are the stakes?
 
 ## Plot Hooks
-Plot Hooks that tie into further plots, both new and old.
+Plot Hooks that tie into further plots.
 
 ## Hidden Details
 Hidden details.
