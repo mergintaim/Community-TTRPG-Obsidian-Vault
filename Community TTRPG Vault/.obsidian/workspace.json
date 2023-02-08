@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de2a2b4e42294533",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,8 +155,8 @@
   },
   "active": "a04d62086b5bce96",
   "lastOpenFiles": [
-    "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
     "Templates/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
+    "Templates/1. DM Templates/1. Story World Templates/Locations/Database - Settlement.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Database - NPC.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
     "Untitled.md",
