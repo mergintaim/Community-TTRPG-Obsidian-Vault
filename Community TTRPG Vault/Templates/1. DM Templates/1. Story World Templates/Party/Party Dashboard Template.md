@@ -6,8 +6,6 @@
 Below is a template for a Party Dashboard, when placed in Obsidian will look like the showcase above. To use this, you simple need to copy and past the box below. Once you have done this, with the correct plugins installed, you will have the above template.
 
 ```
-[![Showcase]
-(https://img.youtube.com/vi/lUYJFkLjams/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=lUYJFkLjams)
 ```
 
