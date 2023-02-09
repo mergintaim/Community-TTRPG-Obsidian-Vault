@@ -5,9 +5,7 @@
 # How to use:
 Below is a template for a Party Dashboard, when placed in Obsidian will look like the showcase above. To use this, you simple need to copy and past the box below. Once you have done this, with the correct plugins installed, you will have the above template.
 
-```
-(https://www.youtube.com/watch?v=lUYJFkLjams)
-```
+https://www.youtube.com/watch?v=lUYJFkLjams
 
 ## Plugin Requirements
 - Dataview: https://github.com/blacksmithgu/obsidian-dataview
