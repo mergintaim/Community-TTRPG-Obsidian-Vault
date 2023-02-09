@@ -753,6 +753,29 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  Pronouns:
+    input: select
+    accessorKey: Pronouns
+    key: Pronouns
+    id: Pronouns
+    label: Pronouns
+    position: 11
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "He/Him", backgroundColor: "hsl(111, 95%, 90%)"}
+      - { label: "She/Her", backgroundColor: "hsl(17, 95%, 90%)"}
+      - { label: "They/Them", backgroundColor: "hsl(187, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   enable_show_state: false
   group_folder_column: 

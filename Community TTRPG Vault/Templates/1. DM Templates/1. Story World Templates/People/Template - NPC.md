@@ -13,7 +13,7 @@ Below is a template, when placed in Obsidian will look like the showcase above. 
 ```
 
 > [!infobox]
-> # `=this.file.name`
+> # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
 > ![[PlaceholderImage.png|cover hm-sm]]
 > ###### Bio
