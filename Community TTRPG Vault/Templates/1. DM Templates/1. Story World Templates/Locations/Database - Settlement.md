@@ -1,6 +1,8 @@
 # How to use:
 Below is a template for a settlement database. To use this, you simple need to copy and past the box below. Once you have done this, with the correct plugins installed, you will have the above template. This works in conjunction with the [[Template - Settlement]].
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hF-pL5EtixU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Plugin Requirements
 - Dataview: https://github.com/blacksmithgu/obsidian-dataview
 - Database Folders: https://github.com/blacksmithgu/obsidian-dataview

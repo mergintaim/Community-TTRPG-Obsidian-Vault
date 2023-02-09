@@ -1,6 +1,8 @@
 # How to use:
 To use this, you simple need to cope and past the box below below. Once you have done this, with Database Folders installed, it will work. This works in conjuction with the [[Template - NPC]].
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5LWSIIcmNGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Plugin Requirements
 - Dataview: https://github.com/blacksmithgu/obsidian-dataview
 - Database Folders: https://github.com/blacksmithgu/obsidian-dataview
