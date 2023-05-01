@@ -6,7 +6,7 @@ To use this, you simple need to cope and past the box below below. Once you have
 
 ## Plugin Requirements
 - Dataview: https://github.com/blacksmithgu/obsidian-dataview
-- Database Folders: https://github.com/blacksmithgu/obsidian-dataview
+- Database Folders: https://github.com/RafaelGB/obsidian-db-folder
 - ITS Theme (Appearance): https://github.com/SlRvb/Obsidian--ITS-Theme
 
 ````
